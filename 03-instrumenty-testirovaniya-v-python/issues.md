@@ -53,7 +53,7 @@ def decode(morse_message: str) -> str:
 
 ## issue-03
 Дана функция, кодирующая значение в бинарное представление на основе порядкового номера первого встречаемго элемента\
-Подробнее про `One Hot Encoding` можно почтитать тут - [How to One Hot Encode Sequence Data in Python](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/How)
+Подробнее про `One Hot Encoding` можно почтитать тут - [How to One Hot Encode Sequence Data in Python](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
 
 ```python
 # полный код в файле one_hot_encoder.py
